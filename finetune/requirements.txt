@@ -11,7 +11,7 @@ nltk==3.8.1
 numpy==1.24.4
 opencv_python_headless==4.5.5.64
 openpyxl==3.1.2
-Pillow==10.1.0
+Pillow==10.3.0
 sacrebleu==2.3.2
 seaborn==0.13.0
 shortuuid==1.0.11
@@ -20,7 +20,7 @@ torch==2.2.0
 torchaudio==2.2.0
 torchvision==0.17.0
 timm==0.9.10
-tqdm==4.66.1
+tqdm==4.66.3
 protobuf==4.25.0 
 typing_extensions==4.8.0
 uvicorn==0.24.0.post1
@@ -36,7 +36,7 @@ decord
 aiosignal
 tensorboard
 deepspeed
-transformers==4.51.2
+transformers==4.53.0
 librosa==0.9.0
 soundfile==0.12.1
 vector-quantize-pytorch==1.18.5
