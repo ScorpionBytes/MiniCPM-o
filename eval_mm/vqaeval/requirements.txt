@@ -44,6 +44,6 @@ pycocoevalcap
 sentence-transformers
 umap-learn
 notebook
-gradio==3.24.1
+gradio==5.31.0
 gradio-client==0.0.8
 wandb
